@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A4DFF&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%91%8B+Hello%2C+I'm+Pooja+Negi;Business+Analyst+%7C+Data+Enthusiast;Analytics+%7C+Automation+%7C+AI"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=9A4DFF&center=true&vCenter=true&repeat=true&width=600&lines=Hello"
+    alt="Hello"
   />
 </p>
+
 
 ---
 
