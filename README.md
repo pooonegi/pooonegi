@@ -23,8 +23,6 @@
 
 <hr style="border:0.5px solid #444; margin: 10px 0;" />
 
-## 🛠️ Languages and Tools  
-
 ## 🛠️ Languages & Tools  
 
 **Programming & Data**  
@@ -88,5 +86,8 @@ Framework and tests for the **Data Integration** lecture assignments.
 
 
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
