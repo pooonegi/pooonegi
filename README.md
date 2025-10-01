@@ -7,7 +7,8 @@
 
 🎯 **Business Analyst | Data Enthusiast | Analytics & Automation*
 
----
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
+
 
 ## 👩‍🎓 About Me  
 
@@ -20,37 +21,27 @@
 - 🚀 Open to opportunities in **Data Science, Analytics, and Product-focused roles** where I can combine my academic knowledge with practical industry experience  
 
 
----
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages and Tools  
 
-**Programming & Data**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="60" height="60" alt="Julia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" height="60" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="60" height="60" alt="Hadoop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="60" height="60" alt="SPSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="60" height="60" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="60" height="60" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="Google Data Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+</p>
 
-**Analytics & Visualization**  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C84?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=python&logoColor=white)
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
 
-**Machine Learning & AI**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/-Transformers-000000?logo=python&logoColor=white)
-
-**Data Engineering & Integration**  
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
 
 ## 📂 Featured Projects  
 
@@ -60,7 +51,8 @@ Participated in **SemEval 2025 Shared Task 11 (Track A)** on multi-label emotion
 - End-to-end workflow including training, evaluation, and prediction pipeline.  
 - Collaborated with a team of 5 members to fine-tune and deploy the model.  
 
----
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
+
 
 🔹 [**Audio Detection – Transformer4SED**](https://github.com/pooonegi/Transformer4SED)  
 Repository for **Transformer-based Sound Event Detection (SED)** algorithms.  
@@ -69,7 +61,8 @@ Repository for **Transformer-based Sound Event Detection (SED)** algorithms.
 - Supports open-vocabulary detection with multi-modal queries (text + audio).  
 - Includes visualization of model architectures and demo workflows.  
 
----
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
+
 
 🔹 [**Data Integration Project**](https://github.com/pooonegi/di-integration)  
 Framework and tests for the **Data Integration** lecture assignments.  
@@ -77,13 +70,21 @@ Framework and tests for the **Data Integration** lecture assignments.
 - Maven-based Java project with **JUnit test automation**.  
 - Hands-on exercises to design integration pipelines and validate data quality.  
 
----
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight)  
 
----
+## 📊 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooonegi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<hr style="border:0.5px solid #444; margin: 10px 0;" />
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojanegi3429)  
