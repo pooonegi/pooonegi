@@ -1,6 +1,11 @@
-# Hi there 👋, I'm Pooja Negi  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A4DFF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Pooja+Negi;Business+Analyst+%7C+Data+Enthusiast;Analytics+%7C+Automation+%7C+AI" alt="Typing SVG" />
+</p>
 
-🎯 **Business Analyst | Data Enthusiast | Analytics & Automation**  
+---
+
+🎯 **Business Analyst | Data Enthusiast | Analytics & Automation**
+
 
 ---
 
@@ -9,7 +14,6 @@
 - 📊 Skilled with **Python, R, SQL, Excel, and Power BI**  
 - 🌱 Currently exploring **Machine Learning & Advanced BI tools**  
 - 🤝 Open to collaborations on **data-driven projects**  
-- 📫 Reach me at: yourmail@gmail.com  
 
 ---
 
