@@ -88,9 +88,5 @@ Framework and tests for the **Data Integration** lecture assignments.
 
 
 ## 📊 My GitHub Stats  
-
-## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight)  
-
-<hr style="border:0.5px solid #444; margin: 10px 0;" />
