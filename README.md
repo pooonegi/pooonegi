@@ -2,18 +2,23 @@
   <img src="https://media.giphy.com/media/fSY6yO7pyoMTWYNHVE/giphy.gif" width="200" alt="Hello Animation" />
 </p>
 
+<h2 align="center">Hi! I'm Pooja Negi</h2>
+
+
+🎯 **Business Analyst | Data Enthusiast | Analytics & Automation*
+
 ---
 
-🎯 **Business Analyst | Data Enthusiast | Analytics & Automation**
+## 👩‍🎓 About Me  
 
+- 🎓 Currently pursuing a **Master’s in Data Science** at **Philipps-Universität Marburg**, focusing on machine learning, natural language processing, and data-driven decision making  
+- 💻 **B.Tech in Computer Science** with a strong foundation in algorithms, databases, and software engineering  
+- 💼 3+ years of experience as a **Business Analyst**, where I collaborated cross-functionally to design data solutions, automate reporting pipelines, and drive product management initiatives  
+- 📊 Hands-on expertise in **Python, R, SQL, Power BI, Tableau, and advanced Excel** for analytics and visualization  
+- 🤝 Skilled at **stakeholder management, product strategy, and process optimization**, bridging the gap between technical solutions and business goals  
+- 🌍 Passionate about leveraging **AI & data science** to solve real-world challenges in domains like **insurance, agriculture, and automation**  
+- 🚀 Open to opportunities in **Data Science, Analytics, and Product-focused roles** where I can combine my academic knowledge with practical industry experience  
 
----
-
-## 👩‍💻 About Me  
-- 🔭 Experienced in **Business Analytics, Data Visualization, and Process Optimization**  
-- 📊 Skilled with **Python, R, SQL, Excel, and Power BI**  
-- 🌱 Currently exploring **Machine Learning & Advanced BI tools**  
-- 🤝 Open to collaborations on **data-driven projects**  
 
 ---
 
