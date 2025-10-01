@@ -1,10 +1,6 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=9A4DFF&center=true&vCenter=true&repeat=true&width=600&lines=Hello"
-    alt="Hello"
-  />
+  <img src="https://media.giphy.com/media/fSY6yO7pyoMTWYNHVE/giphy.gif" width="200" alt="Hello Animation" />
 </p>
-
 
 ---
 
