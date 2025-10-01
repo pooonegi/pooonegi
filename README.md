@@ -76,7 +76,6 @@ Framework and tests for the **Data Integration** lecture assignments.
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooonegi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooonegi&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pooonegi&theme=tokyonight)  
 
 ---
